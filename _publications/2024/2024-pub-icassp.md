@@ -1,5 +1,5 @@
 ---
-title:          HySense: Hybrid event occurrence detection method for IoT devices
+title:          "HySense: Hybrid event occurrence detection method for IoT devices"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
 pub:            "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
