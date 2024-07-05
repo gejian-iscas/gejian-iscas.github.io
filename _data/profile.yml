@@ -3,17 +3,18 @@ secondary_name: ""
 navbar_name: "葛健"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Peking University (2021)'
+  - '<span class="no-break"><img src="assets/images/badges/BJTU_emblem.png" alt="Beijing Jiaotong University" class="inline-badge"/></span> B.S., Beijing Jiaotong University (2018)'
+  - '<span class="no-break"><img src="assets/images/badges/UCAS.jpg" alt="University of Chinese Academy of Sciences" class="inline-badge"/></span> Ph.D., University of Chinese Academy of Sciences (2025)'
 
 email: "gejian18@mails.ucas.edu.cn"
-gscholar: your_google_scholar_id
+gscholar: d-3B2S8AAAAJ
 github: gejian-iscas
 # twitter: your_twitter_id
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+orcid: 0009-0004-1233-3563
 
 short_bio: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
