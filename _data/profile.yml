@@ -4,7 +4,7 @@ navbar_name: "葛健"
 
 positions:
   - '<span class="no-break"><img src="assets/images/badges/BJTU_emblem.png" alt="Beijing Jiaotong University" class="inline-badge"/></span> B.S., Beijing Jiaotong University (2018)'
-  - '<span class="no-break"><img src="assets/images/badges/UCAS.jpg" alt="University of Chinese Academy of Sciences" class="inline-badge"/></span> Ph.D., University of Chinese Academy of Sciences (2025)'
+  - '<span class="no-break"><img src="assets/images/badges/ucas.jpg" alt="University of Chinese Academy of Sciences" class="inline-badge"/></span> Ph.D., University of Chinese Academy of Sciences (2025)'
 
 email: "gejian18@mails.ucas.edu.cn"
 gscholar: d-3B2S8AAAAJ
@@ -27,10 +27,15 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash.
 
 education:
-- name: Peking University
-  logo: assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+- name: Beijing Jiaotong University
+  logo: assets/images/badges/BJTU_emblem.png
+  position: B.S. in Software Engineering
+  date: Sep. 2014 - Jul. 2018
+
+- name: University of Chinese Academy of Sciences
+  logo: assets/images/badges/ucas.jpg
+  position: Ph.D. in Computer Science
+  date: Sep. 2018 - Jul. 2025
 
 # experience:
 # - name: Peking University
@@ -47,5 +52,5 @@ awards:
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
-footer_text: >-
-  <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> academic-homepage</a>
+# footer_text: >-
+#   <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> academic-homepage</a>
